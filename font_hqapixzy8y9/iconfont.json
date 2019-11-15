@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "115197",
+      "name": "饼干",
+      "font_class": "binggan",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "1314475",
+      "name": "我的",
+      "font_class": "daohanglan-05",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1893867",
+      "name": "蛋糕",
+      "font_class": "dangao",
+      "unicode": "e515",
+      "unicode_decimal": 58645
+    },
+    {
+      "icon_id": "2872843",
+      "name": "饮料",
+      "font_class": "yinliao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3896366",
+      "name": "礼花",
+      "font_class": "lihua",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3904796",
+      "name": "蛋糕",
+      "font_class": "dangao1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5178504",
+      "name": "冰淇淋",
+      "font_class": "icon-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5649931",
+      "name": "蛋糕",
+      "font_class": "dangao2",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}

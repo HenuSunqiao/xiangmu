@@ -1,0 +1,32 @@
+[
+    {
+        "name": "基地牛乳",
+        "img": "img/shang1.png",
+        "price": 99.00
+    },
+    {
+        "name": "莱茵河梅妖精",
+        "img": "img/shang2.png",
+        "price": 99.00
+    },
+    {
+        "name": "情定爱情海",
+        "img": "img/shang3.png",
+        "price": 99.00
+    },
+    {
+        "name": "白色红丝绒",
+        "img": "img/shang4.png",
+        "price": 118.00
+    },
+    {
+        "name": "奥利奥雪域牛乳芝士",
+        "img": "img/shang5.png",
+        "price": 218.00
+    },
+    {
+        "name": "冻烤燃情芝士",
+        "img": "img/shang6.png",
+        "price": 218.00
+    }
+]
